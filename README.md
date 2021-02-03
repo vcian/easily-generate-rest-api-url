@@ -25,7 +25,7 @@ Plugin Functionality:
 <li>Use the Settings->Generate Rest API URL screen to configure the plugin</li>
 </ul>
  
-## Get Involved ==
+## Get Involved 
 
 [ViitorCloud](https://viitorcloud.com) believes in an active community support so with such plugins we try to make life easy for developers & of course customers. Don't forget to subscribe our newsletter. 
 
